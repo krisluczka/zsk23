@@ -7,3 +7,8 @@
 
   Project includes: interpreter.h, interpreter.cpp; with additional *.zsk files.
   Documentation is currently available only in Polish.
+
+  Next main goal's are:
+  	- to rewrite whole program using stringstream's.
+   	- floating point numbers
+    	- functions and preprocessor directives
