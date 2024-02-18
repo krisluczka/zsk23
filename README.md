@@ -1,8 +1,8 @@
-  Krzysztof Łuczka, czerwiec 2023
+  Krzysztof Łuczka, June 2023
 
-	Projekt udostępniony na licencji OpenSource,
-	stworzony w celach zaliczenia przedmiotu "Programowanie"
-	w Technikum Komunikacji im. Hipolita Cegielskiego w Poznaniu
+	The project is available under an OpenSource license,
+	created for the purpose of passing the course "Programowanie"
+	at the Technical School of Communication (Technikum Komunikacji) in Poznań
 
 
   Project includes: interpreter.h, interpreter.cpp; with additional *.zsk files.
