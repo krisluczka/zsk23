@@ -1,0 +1,12 @@
+string Zagramy w gre. Wybiore liczbe od 1 do 10, a ty musisz ja zgadnac!~
+print
+random 10
+calc 1 +
+copy
+string Podaj liczbe > 
+print
+getinteger
+if! 1
+jump 5
+string Brawo! Wygrales!
+print

@@ -1,0 +1,17 @@
+string Podaj liczbe > 
+print
+getinteger
+push 2
+~if> 4
+pop
+~calc 1 -
+push 2
+jump 5
+pop
+reverse
+copy
+loop 1
+calc *
+string Wynik silni wynosi 
+print
+stack

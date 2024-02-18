@@ -1,0 +1,9 @@
+push 1
+push 1
+string Podaj ilosc liczb ciagu Fibonacciego do wygenerowania (min. 2) > 
+print
+getinteger
+calc 2 -
+loop 1
+~calc +
+stack

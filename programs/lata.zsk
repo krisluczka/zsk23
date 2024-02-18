@@ -1,0 +1,14 @@
+string Podaj obecny rok > 
+print
+getinteger
+string Podaj rok urodzenia > 
+print
+getinteger
+calc -
+push 18
+~if>= 2
+string Masz conajmniej 18 lat!
+print
+~if< 2
+string Nie masz 18 lat...
+print
