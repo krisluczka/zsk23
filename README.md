@@ -8,8 +8,9 @@
   Project includes: interpreter.h, interpreter.cpp; with additional *.zsk files.
   Documentation is currently available only in Polish.
 
-  Next main goal's are:
-- to rewrite whole program using stringstream's
-- to rewrite PRN algorithm
-- to add floating point numbers
-- to add functions and preprocessor directives
+  Next main goals are:
+- to rewrite whole program using modern C++ (C++14 and above), including:
+	- rewriting main loop using stringstreams
+	- rewriting RPN evaluation algorithm
+- to add floating point numbers' support
+- to add functions and preprocessor directives' support
